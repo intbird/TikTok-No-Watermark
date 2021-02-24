@@ -1,8 +1,5 @@
 # TikTok-No-Watermark
-TikTok-No-Watermark
 
+# https://intbird.net/tiktok-no-watermark/
 
-## How to parse
-online: https://intbird.net/tiktok-no-watermark/
-
-connect me: https://t.me/intbird
+## connect me: https://t.me/intbird
