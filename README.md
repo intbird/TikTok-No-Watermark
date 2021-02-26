@@ -6,10 +6,9 @@ Only for technical development, not for commercial use
 ### connect me: https://t.me/intbird
 
 
-# Screenshoot1
-
-![png](https://github.com/intbird/TikTok-No-Watermark/blob/main/screenshoot1.png)
-
-# Screenshoot2
+# Screenshoot
 
 ![mp4](https://github.com/intbird/TikTok-No-Watermark/blob/main/tiktok.gif)
+
+
+
