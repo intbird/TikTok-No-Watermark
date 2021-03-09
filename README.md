@@ -3,7 +3,7 @@ Only for technical development, not for commercial use
 
 # https://intbird.net/tiktok-no-watermark/
 
-### connect me: https://t.me/intbird
+### contact me: https://t.me/intbird
 
 
 # Screenshoot
