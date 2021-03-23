@@ -1,0 +1,90 @@
+{
+  "Name": "tiktok",
+  "CreationDate": "2021-3-23",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://tiktok.com",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div[2]/div[2]/div/div/main/div/div/span/div/div/div[5]/div[2]/div[3]/div",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"main\"]/div[2]/div[2]/div/div/main/div/div/span/div/div/div[5]/div[2]/div[3]/div",
+        "xpath=//div[2]/div[3]/div",
+        "css=#main > div.jsx-2523772428.main-body.page-with-header.middle > div:nth-child(3) > div > div > main > div > div.jsx-2865275755.video-feed-container > span:nth-child(1) > div > div > div.jsx-747277952.jsx-2715883145.item-video-container > div.jsx-1045706868.pc-action-bar.item-action-bar.vertical > div:nth-child(3) > div.jsx-1045706868.bar-item-img.bar-item-share.engagement-icon-v23"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=複製連結",
+      "Value": "",
+      "Targets": [
+        "linkText=複製連結",
+        "xpath=//*[@id=\"main\"]/div[2]/div[2]/div/div/main/div/div/span/div/div/div[5]/div[2]/div[3]/div[2]/div/a[7]",
+        "xpath=//a[7]",
+        "css=#main > div.jsx-2523772428.main-body.page-with-header.middle > div:nth-child(3) > div > div > main > div > div.jsx-2865275755.video-feed-container > span:nth-child(1) > div > div > div.jsx-747277952.jsx-2715883145.item-video-container > div.jsx-1045706868.pc-action-bar.item-action-bar.vertical > div:nth-child(3) > div.jsx-3606761601 > div > a:nth-child(7)"
+      ]
+    },
+    {
+      "Command": "open",
+      "Target": "https://intbird.net/tiktok-no-watermark/",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=input",
+      "Value": "${!clipboard}",
+      "Targets": [
+        "id=input",
+        "xpath=//*[@id=\"input\"]",
+        "xpath=//input[@id='input']",
+        "xpath=//input",
+        "css=#input"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "id=parser",
+      "Value": "",
+      "Targets": [
+        "id=parser",
+        "xpath=//*[@id=\"parser\"]",
+        "xpath=//button[@id='parser']",
+        "xpath=//button",
+        "css=#parser"
+      ]
+    },
+    {
+      "Command": "pause",
+      "Target": "5",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=preview",
+      "Value": "",
+      "Targets": [
+        "id=preview",
+        "xpath=//*[@id=\"preview\"]",
+        "xpath=//button[@id='preview']",
+        "xpath=//div[4]/button",
+        "css=#preview"
+      ]
+    },
+    {
+      "Command": "click",
+      "Target": "id=videoView",
+      "Value": "",
+      "Targets": [
+        "id=videoView",
+        "xpath=//*[@id=\"videoView\"]",
+        "xpath=//video[@id='videoView']",
+        "xpath=//video",
+        "css=#videoView"
+      ]
+    }
+  ]
+}
