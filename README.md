@@ -15,6 +15,6 @@ Only for technical development, not for commercial use
 
 
 
-#### [Simple Auto Json](https://github.com/intbird/TikTok-No-Watermark/blob/main/tiktok_auto_step.json)
+#### [Simple UI.Vision RPA Json](https://github.com/intbird/TikTok-No-Watermark/blob/main/tiktok_auto_step.json)
 
-![Auto Json_Demo](https://github.com/intbird/TikTok-No-Watermark/blob/main/tiktok_auto_step.gif)
+![Simple UI.Vision RPA_Demo](https://github.com/intbird/TikTok-No-Watermark/blob/main/tiktok_auto_step.gif)
